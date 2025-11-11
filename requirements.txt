@@ -9,4 +9,3 @@ pyromod
 python-dotenv
 requests
 TgCrypto
-Flask==2.3.3
